@@ -1,4 +1,4 @@
-this is a game 100% made in python
+this is a game 100% made in python but github says 63% HTML 34.8% TeX and 2.2% python but believe me its 100% python
 
 
 to install its reccomended to create a folder and install it into that folder
